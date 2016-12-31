@@ -27,9 +27,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ViewAnimator;
 
-import com.example.android.bluetoothchat.sensorview.MyGLRenderer;
-import com.example.android.bluetoothchat.sensorview.MyGLSurfaceView;
-import com.example.android.bluetoothchat.sensorview.MySensorEventListener;
 import com.example.android.common.activities.SampleActivityBase;
 import com.example.android.common.logger.Log;
 import com.example.android.common.logger.LogWrapper;
@@ -45,33 +42,25 @@ import com.example.android.common.logger.MessageOnlyLogFilter;
 public class MainActivity extends SampleActivityBase {
 
     public static final String TAG = "MainActivity";
-    private GLSurfaceView mGLView;
     private MySensorEventListener mSensorListener;
     private SensorManager mSensorManager;
-    private final MyGLRenderer mRenderer;
 
     // Whether the Log Fragment is currently shown
     private boolean mLogShown;
-
-    public MainActivity() {
-        // Set the Renderer for drawing on the GLSurfaceView
-        mRenderer = new MyGLRenderer();
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mGLView = new MyGLSurfaceView(this, mRenderer);
-        mSensorListener = new MySensorEventListener(mRenderer, mGLView);
-        addSensor();
-        //setContentView(mGLView);
 
         if (savedInstanceState == null) {
             FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
             BluetoothChatFragment fragment = new BluetoothChatFragment();
             transaction.replace(R.id.sample_content_fragment, fragment);
             transaction.commit();
+
+            mSensorListener = new MySensorEventListener(fragment);
+            addSensor();
         }
     }
 
@@ -143,20 +132,11 @@ public class MainActivity extends SampleActivityBase {
         mSensorManager.registerListener(mSensorListener,
                 mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
                 SensorManager.SENSOR_DELAY_NORMAL);
-        // The following call resumes a paused rendering thread.
-        // If you de-allocated graphic objects for onPause()
-        // this is a good place to re-allocate them.
-        mGLView.onResume();
     }
 
     @Override
     protected void onPause() {
         super.onPause();
         mSensorManager.unregisterListener(mSensorListener);
-        // The following call pauses the rendering thread.
-        // If your OpenGL application is memory intensive,
-        // you should consider de-allocating objects that
-        // consume significant memory here.
-        mGLView.onPause();
     }
 }

@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="1bf1965e86ab9ae2623ceeea0a237cb2c42f5166">
+        sha1="171071befe9f703a76959c08d168c43d2d3856e7">
         <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_28779720ca20819aecc8eedd4d3ba2c3789056c7/classes.dex" />
     </item>
     <item
@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="a6b9f9cd5b2c9bf61cd501f20522a19c47ad3e7b">
+        sha1="8e03732e14975663808741592e38c7443df9619c">
         <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48b0f3f925c153335d0321c0f53f70c0112132c2/classes.dex" />
     </item>
     <item
