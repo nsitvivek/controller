@@ -1,0 +1,7 @@
+#Sat Dec 31 01:23:52 PST 2016
+base.0=/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48b0f3f925c153335d0321c0f53f70c0112132c2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_28779720ca20819aecc8eedd4d3ba2c3789056c7/classes.dex
+base.1=/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_28779720ca20819aecc8eedd4d3ba2c3789056c7
+file.0=/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48b0f3f925c153335d0321c0f53f70c0112132c2/classes.dex

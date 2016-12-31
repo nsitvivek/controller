@@ -3,210 +3,66 @@
 
     <item
         is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_3089003bc8c7ecdfe6f0e54182c769af30646dda/classes.dex" />
+        revision="23.0.3"
+        sha1="1bf1965e86ab9ae2623ceeea0a237cb2c42f5166">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_28779720ca20819aecc8eedd4d3ba2c3789056c7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="4a4a80a009e417d00447f12d12f9682f22304640">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d1f4e8102759d7de900a426f770c56824b97ee6/classes.dex" />
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_9583a87e9f0b49935bbc3a0f052ef5d147675a91/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_4d9e547ccdf9010673298074c3bbadfac190d579/classes.dex" />
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-23.3.0_ca6a9ded58a3209b1155ecc7beeaaf5013b15635/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_f6d2885107efc67063fee83ebd6483c820eb9475/classes.dex" />
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_eaecb45efa8a051f6d9139fb3abd2d4d9367e6e5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vivek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_054affeb31c4cddae5cd33322ee13472c02db1e5/classes.dex" />
+        revision="23.0.3"
+        sha1="a6b9f9cd5b2c9bf61cd501f20522a19c47ad3e7b">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48b0f3f925c153335d0321c0f53f70c0112132c2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jar="/Users/vivek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_8f5c9ab6bc1ee045c50a189dfe6d6ed76f14bea2/classes.dex" />
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fd3bfea8be6442e3e1129f28b2702f5601b53200/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_d62cd1d56278ee806fb465499b9f037e2964ef69/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_ca1f89f38f24e652f3abb4bb5e6a3208cdbdd929/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_ac3ef1dd2e4139cf48e832451830b6e98fce0cab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_691c077a9863af858cb2f2c6466784138fb91ae7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_a3d8d88cced280325cb8ebee79320a24990c3f9c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_ecd587d528d94f537d1ad9ad281e026342f8758b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_db337d3be55466cdf2a859861b78ac00fffdebd4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_f5c005cbf045a1e8eb6dafc70dd9dd11bc7cb0c4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_e81d62b55d13e7c98ca492021072d5802f4cf3e5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_4a7e460bfe9992a17a39b70f24e21d3ad9ae355d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_c646cbc72e054a2f92b27036d4bfe4a72386a3aa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5339f3cff15e6709563a1638dc9d06b652d7468d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="677c5fec347b361a2d19615625e05e8d45eb115c">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f634f614bf25a4d021376d4307bbb000bf04ea37/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2f211f1d74463f20eb6455e9abbb4d7588ece533">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e78a9480570c86cf0675297a596e05d377a358d6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_38e272e4b3764529cf679ad7be05f3c601683c60/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f024ef9f17ead039d855dfb6771617a988ff433f">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/Controller2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_220291abac7a506b0dd9c16864132ce4971fcb36/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_fa29e3719c1467752985cec89a1f1fc32d649924/classes.dex" />
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_12cd5c9299ed582b7a718324216e91d1d58ea4ca/classes.dex" />
     </item>
 
 </items>
