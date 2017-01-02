@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 161
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 223
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 285
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 349
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 2789
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 2846
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 2900
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 2943
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 3013
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 3056
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 3100
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 3145
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 3188
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 3230
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 3298
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 3349
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/base-strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/base-strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 3451
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 3508
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 3567
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 3640
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -392,7 +392,7 @@
                     "endOffset": 4229
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/base-strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/base-strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 4285
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 4353
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 4429
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 4482
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/fragmentview_strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/fragmentview_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -488,7 +488,7 @@
                     "endOffset": 4535
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/fragmentview_strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/fragmentview_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -507,7 +507,7 @@
                     "endOffset": 4596
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -526,7 +526,7 @@
                     "endOffset": 4665
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -545,7 +545,7 @@
                     "endOffset": 4734
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -564,7 +564,7 @@
                     "endOffset": 4772
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -583,7 +583,7 @@
                     "endOffset": 4869
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -602,7 +602,7 @@
                     "endOffset": 4928
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 4990
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -640,7 +640,7 @@
                     "endOffset": 5062
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -659,7 +659,7 @@
                     "endOffset": 5126
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/strings.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -678,7 +678,7 @@
                     "endOffset": 5177
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-styles.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -698,7 +698,7 @@
                     "endOffset": 5591
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -719,7 +719,7 @@
                     "endOffset": 5655
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -740,7 +740,7 @@
                     "endOffset": 5781
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -761,7 +761,7 @@
                     "endOffset": 5909
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -781,7 +781,7 @@
                     "endOffset": 5969
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-styles.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -800,7 +800,7 @@
                     "endOffset": 6022
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-styles.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -819,7 +819,7 @@
                     "endOffset": 6049
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-styles.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -839,7 +839,7 @@
                     "endOffset": 6245
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-styles.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -860,7 +860,7 @@
                     "endOffset": 6523
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values/template-styles.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,

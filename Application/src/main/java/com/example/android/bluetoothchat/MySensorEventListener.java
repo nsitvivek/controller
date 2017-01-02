@@ -33,11 +33,13 @@ public class MySensorEventListener implements SensorEventListener {
 
         if (xChange > 2){
             direction[0] = "LEFT";
-            bluetoothChatFragment.sendMessage("left");
+            if(bluetoothChatFragment != null)
+                bluetoothChatFragment.sendMessage("left");
         }
         else if (xChange < -2){
             direction[0] = "RIGHT";
-            bluetoothChatFragment.sendMessage("right");
+            if(bluetoothChatFragment != null)
+                bluetoothChatFragment.sendMessage("right");
         }
 
         if (yChange > 2){
@@ -49,11 +51,13 @@ public class MySensorEventListener implements SensorEventListener {
 
         if (zChange > 2){
             direction[1] = "FRONT";
-            bluetoothChatFragment.sendMessage("front");
+            if(bluetoothChatFragment != null)
+                bluetoothChatFragment.sendMessage("front");
         }
         else if (zChange < -2){
             direction[1] = "BACK";
-            bluetoothChatFragment.sendMessage("back");
+            if(bluetoothChatFragment != null)
+                bluetoothChatFragment.sendMessage("back");
         }
     }
 

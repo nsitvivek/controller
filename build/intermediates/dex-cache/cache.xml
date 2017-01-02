@@ -21,6 +21,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_21f9cea6b548085d207162e9f01a45c06b0c8268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-23.3.0_014b85ff4178d7dc25345fe96780d1c6dfe4fd6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -39,12 +57,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="8e03732e14975663808741592e38c7443df9619c">
-        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48b0f3f925c153335d0321c0f53f70c0112132c2/classes.dex" />
+        sha1="2b4556dcba7411020fc5ce6129ffd8d87b1e12e7">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26849496eab6d0ba69e79aeed9c741c1d30dbaad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3eec77ab647f770dd01681ea5e868aba6716c1f">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c298e4f96f8f4678add1fcdc2024bf317e68a3f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_60f4585a9c66447916f28a604270feb2aecc033e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -54,6 +90,24 @@
         revision="23.0.3"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
         <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fd3bfea8be6442e3e1129f28b2702f5601b53200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e03732e14975663808741592e38c7443df9619c">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48b0f3f925c153335d0321c0f53f70c0112132c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_287565fb83579bc1fd67168965007558e10799bb/classes.dex" />
     </item>
     <item
         is-multidex="true"

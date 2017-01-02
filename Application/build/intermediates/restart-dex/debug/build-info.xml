@@ -5,47 +5,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="931436806841094"
-    token="574894546678433202"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="33233843763912"
+    token="-8562844060569849344"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="88" />
+        duration="165" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="14" />
+        duration="116" />
     <task
         name="verifier"
-        duration="0" />
+        duration="14" />
 
     <artifact
-        location="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
+        location="/Users/vivek/code/vivekku4/appengine/controller/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="930873577988873"
+        timestamp="33233843763912"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/outputs/apk/Application-debug.apk"
+            location="/Users/vivek/code/vivekku4/appengine/controller/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="931398232236144"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="931436806841094"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

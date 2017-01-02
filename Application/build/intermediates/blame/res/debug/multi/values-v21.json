@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "outputFile": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 131
                 },
                 "from": {
-                    "file": "/Users/vivek/code/vivekku4/appengine/bluetoothchat/Application/src/main/res/values-v21/base-template-styles.xml",
+                    "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values-v21/base-template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
