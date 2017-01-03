@@ -67,6 +67,7 @@ public class BluetoothChatService {
     public static final int STATE_LISTEN = 1;     // now listening for incoming connections
     public static final int STATE_CONNECTING = 2; // now initiating an outgoing connection
     public static final int STATE_CONNECTED = 3;  // now connected to a remote device
+    private final VRConductorClient conductorClient;
 
     /**
      * Constructor. Prepares a new BluetoothChat session.
@@ -79,6 +80,7 @@ public class BluetoothChatService {
         mState = STATE_NONE;
         state = mState;
         mHandler = handler;
+        conductorClient = new VRConductorClient();
     }
 
     /**
@@ -203,6 +205,7 @@ public class BluetoothChatService {
         Bundle bundle = new Bundle();
         bundle.putString(Constants.DEVICE_NAME, device.getName());
         msg.setData(bundle);
+        conductorClient.send("VR controller was connected to: " + device.getName());
         mHandler.sendMessage(msg);
 	// Update UI title
 	updateUserInterfaceTitle();

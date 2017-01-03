@@ -292,8 +292,8 @@
                     "startLine": 20,
                     "startColumn": 4,
                     "startOffset": 3303,
-                    "endColumn": 50,
-                    "endOffset": 3349
+                    "endColumn": 49,
+                    "endOffset": 3348
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/base-strings.xml",
@@ -301,8 +301,8 @@
                         "startLine": 18,
                         "startColumn": 4,
                         "startOffset": 647,
-                        "endColumn": 50,
-                        "endOffset": 693
+                        "endColumn": 49,
+                        "endOffset": 692
                     }
                 }
             },
@@ -310,9 +310,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 3354,
+                    "startOffset": 3353,
                     "endColumn": 101,
-                    "endOffset": 3451
+                    "endOffset": 3450
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -329,9 +329,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 3456,
+                    "startOffset": 3455,
                     "endColumn": 56,
-                    "endOffset": 3508
+                    "endOffset": 3507
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -348,9 +348,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 3513,
+                    "startOffset": 3512,
                     "endColumn": 58,
-                    "endOffset": 3567
+                    "endOffset": 3566
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -367,9 +367,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 3572,
+                    "startOffset": 3571,
                     "endColumn": 72,
-                    "endOffset": 3640
+                    "endOffset": 3639
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -386,20 +386,20 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3645,
+                    "startOffset": 3644,
                     "endLine": 39,
                     "endColumn": 13,
-                    "endOffset": 4229
+                    "endOffset": 4228
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/base-strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 698,
+                        "startOffset": 697,
                         "endLine": 33,
                         "endColumn": 13,
-                        "endOffset": 1294
+                        "endOffset": 1293
                     }
                 }
             },
@@ -407,9 +407,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 4234,
+                    "startOffset": 4233,
                     "endColumn": 55,
-                    "endOffset": 4285
+                    "endOffset": 4284
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -426,9 +426,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4290,
+                    "startOffset": 4289,
                     "endColumn": 67,
-                    "endOffset": 4353
+                    "endOffset": 4352
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -445,9 +445,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 4358,
+                    "startOffset": 4357,
                     "endColumn": 75,
-                    "endOffset": 4429
+                    "endOffset": 4428
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -464,9 +464,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 4434,
+                    "startOffset": 4433,
                     "endColumn": 52,
-                    "endOffset": 4482
+                    "endOffset": 4481
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/fragmentview_strings.xml",
@@ -483,9 +483,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 4487,
+                    "startOffset": 4486,
                     "endColumn": 52,
-                    "endOffset": 4535
+                    "endOffset": 4534
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/fragmentview_strings.xml",
@@ -502,9 +502,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 4540,
+                    "startOffset": 4539,
                     "endColumn": 60,
-                    "endOffset": 4596
+                    "endOffset": 4595
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -521,9 +521,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 4601,
+                    "startOffset": 4600,
                     "endColumn": 68,
-                    "endOffset": 4665
+                    "endOffset": 4664
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -540,9 +540,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4670,
+                    "startOffset": 4669,
                     "endColumn": 68,
-                    "endOffset": 4734
+                    "endOffset": 4733
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -559,9 +559,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4739,
+                    "startOffset": 4738,
                     "endColumn": 37,
-                    "endOffset": 4772
+                    "endOffset": 4771
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -578,9 +578,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 4777,
+                    "startOffset": 4776,
                     "endColumn": 96,
-                    "endOffset": 4869
+                    "endOffset": 4868
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -597,9 +597,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4874,
+                    "startOffset": 4873,
                     "endColumn": 58,
-                    "endOffset": 4928
+                    "endOffset": 4927
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -616,9 +616,9 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 4933,
+                    "startOffset": 4932,
                     "endColumn": 61,
-                    "endOffset": 4990
+                    "endOffset": 4989
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -635,9 +635,9 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4995,
+                    "startOffset": 4994,
                     "endColumn": 71,
-                    "endOffset": 5062
+                    "endOffset": 5061
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -654,9 +654,9 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 5067,
+                    "startOffset": 5066,
                     "endColumn": 63,
-                    "endOffset": 5126
+                    "endOffset": 5125
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/strings.xml",
@@ -673,9 +673,9 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 5131,
+                    "startOffset": 5130,
                     "endColumn": 50,
-                    "endOffset": 5177
+                    "endOffset": 5176
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
@@ -692,10 +692,10 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 5182,
+                    "startOffset": 5181,
                     "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 5591
+                    "endOffset": 5590
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
@@ -713,10 +713,10 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5596,
+                    "startOffset": 5595,
                     "endLine": 63,
                     "endColumn": 12,
-                    "endOffset": 5655
+                    "endOffset": 5654
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
@@ -734,10 +734,10 @@
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5660,
+                    "startOffset": 5659,
                     "endLine": 66,
                     "endColumn": 12,
-                    "endOffset": 5781
+                    "endOffset": 5780
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
@@ -755,10 +755,10 @@
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 5786,
+                    "startOffset": 5785,
                     "endLine": 69,
                     "endColumn": 12,
-                    "endOffset": 5909
+                    "endOffset": 5908
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
@@ -776,9 +776,9 @@
                 "to": {
                     "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 5914,
+                    "startOffset": 5913,
                     "endColumn": 59,
-                    "endOffset": 5969
+                    "endOffset": 5968
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
@@ -795,9 +795,9 @@
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 5974,
+                    "startOffset": 5973,
                     "endColumn": 52,
-                    "endOffset": 6022
+                    "endOffset": 6021
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
@@ -814,9 +814,9 @@
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 6027,
+                    "startOffset": 6026,
                     "endColumn": 26,
-                    "endOffset": 6049
+                    "endOffset": 6048
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
@@ -833,10 +833,10 @@
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 6054,
+                    "startOffset": 6053,
                     "endLine": 76,
                     "endColumn": 12,
-                    "endOffset": 6245
+                    "endOffset": 6244
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",
@@ -854,10 +854,10 @@
                 "to": {
                     "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 6250,
+                    "startOffset": 6249,
                     "endLine": 82,
                     "endColumn": 12,
-                    "endOffset": 6523
+                    "endOffset": 6522
                 },
                 "from": {
                     "file": "/Users/vivek/code/vivekku4/appengine/controller/Application/src/main/res/values/template-styles.xml",

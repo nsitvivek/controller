@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 02 00:51:16 PST 2017
+#Mon Jan 02 23:01:12 PST 2017
 25.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_/res/layout/fragment_bluetooth_chat.xml
 25.base=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_
 22.set=DEX
@@ -65,7 +65,7 @@ count=30
 11.base=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_
 29.base=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_
 24.set=ANDROID_RESOURCE
-3.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+3.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_/res/layout/activity_device_list.xml
 3.base=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_
 13.set=ANDROID_RESOURCE
 23.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_21f9cea6b548085d207162e9f01a45c06b0c8268/classes.dex
@@ -77,7 +77,7 @@ count=30
 12.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex
 12.base=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
 4.set=ANDROID_RESOURCE
-4.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_/res/layout/activity_device_list.xml
+4.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
 4.base=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_
 23.set=DEX
 24.file=/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/res/resources-debug.ap_/resources.arsc

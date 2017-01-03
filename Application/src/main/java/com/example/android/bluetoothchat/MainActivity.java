@@ -20,8 +20,8 @@ package com.example.android.bluetoothchat;
 import android.content.Context;
 import android.hardware.Sensor;
 import android.hardware.SensorManager;
-import android.opengl.GLSurfaceView;
 import android.os.Bundle;
+import android.os.StrictMode;
 import android.support.v4.app.FragmentTransaction;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -51,6 +51,12 @@ public class MainActivity extends SampleActivityBase {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+        StrictMode.setThreadPolicy(policy);
+
+        VRConductorClient conductorClient = new VRConductorClient();
+        conductorClient.send("VR controller up!");
         setContentView(R.layout.activity_main);
 
         if (savedInstanceState == null) {

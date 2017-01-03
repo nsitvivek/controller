@@ -5,33 +5,40 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="33233843763912"
+    timestamp="52188311880687"
     token="-8562844060569849344"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="165" />
+        duration="86" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="116" />
+        duration="5" />
     <task
         name="verifier"
-        duration="14" />
+        duration="0" />
 
     <artifact
-        location="/Users/vivek/code/vivekku4/appengine/controller/Application/build/outputs/apk/Application-debug.apk"
-        type="MAIN" />
+        location="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="33233843763912"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="48690967944082"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/vivek/code/vivekku4/appengine/controller/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="52188311880687"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
