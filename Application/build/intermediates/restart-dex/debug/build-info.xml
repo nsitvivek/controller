@@ -5,13 +5,13 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="52188311880687"
+    timestamp="52745631338350"
     token="-8562844060569849344"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="86" />
+        duration="77" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -34,7 +34,7 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="52188311880687"
+        timestamp="52745631338350"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/vivek/code/vivekku4/appengine/controller/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"

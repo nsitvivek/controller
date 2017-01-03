@@ -56,6 +56,7 @@ public class MainActivity extends SampleActivityBase {
         StrictMode.setThreadPolicy(policy);
 
         VRConductorClient conductorClient = new VRConductorClient();
+        conductorClient.send("clear");
         conductorClient.send("VR controller up!");
         setContentView(R.layout.activity_main);
 

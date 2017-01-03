@@ -12,9 +12,11 @@ public class MySensorEventListener implements SensorEventListener {
     float [] history = new float[3];
     String[] direction = {"NONE","NONE", "NONE"};
     private final BluetoothChatFragment bluetoothChatFragment;
+    private final VRConductorClient vrConductorClient;
 
     public MySensorEventListener(BluetoothChatFragment fragment) {
         bluetoothChatFragment = fragment;
+        vrConductorClient = new VRConductorClient();
     }
 
     @Override
@@ -51,13 +53,17 @@ public class MySensorEventListener implements SensorEventListener {
 
         if (zChange > 2){
             direction[1] = "FRONT";
-            if(bluetoothChatFragment != null)
+            if(bluetoothChatFragment != null) {
                 bluetoothChatFragment.sendMessage("front");
+                vrConductorClient.send("Controller moved back");
+            }
         }
         else if (zChange < -2){
             direction[1] = "BACK";
-            if(bluetoothChatFragment != null)
+            if(bluetoothChatFragment != null) {
                 bluetoothChatFragment.sendMessage("back");
+                vrConductorClient.send("Controller moved forward");
+            }
         }
     }
 
